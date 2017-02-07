@@ -1,0 +1,13 @@
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\Moq.dll
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\Moq.xml
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Diego\Desktop\Blackdot\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Diego\Desktop\Blackdot\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\Core.dll
+C:\Users\Diego\Desktop\Blackdot\UnitTests\bin\Debug\Core.pdb
+C:\Users\Diego\Desktop\Blackdot\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache

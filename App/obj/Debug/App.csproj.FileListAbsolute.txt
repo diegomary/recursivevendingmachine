@@ -1,0 +1,16 @@
+C:\Users\Diego\Desktop\Blackdot\Core\App\bin\Debug\App.exe.config
+C:\Users\Diego\Desktop\Blackdot\Core\App\bin\Debug\App.exe
+C:\Users\Diego\Desktop\Blackdot\Core\App\bin\Debug\App.pdb
+C:\Users\Diego\Desktop\Blackdot\Core\App\bin\Debug\Core.dll
+C:\Users\Diego\Desktop\Blackdot\Core\App\bin\Debug\Core.pdb
+C:\Users\Diego\Desktop\Blackdot\Core\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Blackdot\Core\App\obj\Debug\App.exe
+C:\Users\Diego\Desktop\Blackdot\Core\App\obj\Debug\App.pdb
+C:\Users\Diego\Desktop\Blackdot\App\bin\Debug\App.exe.config
+C:\Users\Diego\Desktop\Blackdot\App\bin\Debug\App.exe
+C:\Users\Diego\Desktop\Blackdot\App\bin\Debug\App.pdb
+C:\Users\Diego\Desktop\Blackdot\App\bin\Debug\Core.dll
+C:\Users\Diego\Desktop\Blackdot\App\bin\Debug\Core.pdb
+C:\Users\Diego\Desktop\Blackdot\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Blackdot\App\obj\Debug\App.exe
+C:\Users\Diego\Desktop\Blackdot\App\obj\Debug\App.pdb

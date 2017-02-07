@@ -1,0 +1,4 @@
+C:\Users\Diego\Desktop\Blackdot\Core\bin\Debug\Core.dll
+C:\Users\Diego\Desktop\Blackdot\Core\bin\Debug\Core.pdb
+C:\Users\Diego\Desktop\Blackdot\Core\obj\Debug\Core.dll
+C:\Users\Diego\Desktop\Blackdot\Core\obj\Debug\Core.pdb
